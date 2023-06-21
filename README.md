@@ -1,3 +1,1 @@
-###
-<img src=https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg"" alt="Snake Animation"/>
-###
+![](https://komarev.com/ghpvc/?0x0jx=your-github-username)
